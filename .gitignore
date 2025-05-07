@@ -1,0 +1,8 @@
+auth.json
+.venv/
+.idea/
+.env
+
+art/*
+sink/*
+source/*
